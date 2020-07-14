@@ -1,5 +1,8 @@
 """by KubilayKilic"""
 
+#============================================
+"""Şimdilik K harfini yarım çizebiliyor diğer tuşları çizemiyorum, sorun daha sonra giderilecek"""
+
 from __future__ import print_function, division
 
 import string
